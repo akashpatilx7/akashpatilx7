@@ -71,4 +71,4 @@
 
 <br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7&" alt="akashpatilx7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7&" alt="akashpatilx7" /></p>
