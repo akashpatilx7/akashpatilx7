@@ -63,12 +63,11 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpatilx7&show_icons=true&locale=en&layout=compact" alt="akashpatilx7" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpatilx7)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashpatilx7&show_icons=true)  
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akashpatilx7&show_icons=true&locale=en" alt="akashpatilx7" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashpatilx7)  
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7&" alt="akashpatilx7" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7)  
+  
