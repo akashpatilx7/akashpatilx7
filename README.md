@@ -65,6 +65,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpatilx7&show_icons=true&locale=en&layout=compact" alt="akashpatilx7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashpatilx7&show_icons=true&locale=en" alt="akashpatilx7" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7&" alt="akashpatilx7" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akashpatilx7&show_icons=true&locale=en" alt="akashpatilx7" /></p>
+
+<br>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7&" alt="akashpatilx7" /></p>
