@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-patil-2b9a631ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-patil-2b9a631ba" height="30" width="40" /></a>
-<a href="https://twitter.com/akashpatil1718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashpatil1718" height="30" width="40" /></a>
+<a href="https://twitter.com/_akash_patil7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashpatil1718" height="30" width="40" /></a>
 <a href="https://instagram.com/_akash_patil__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akash_patil__18" height="30" width="40" /></a>
 </p>
 
