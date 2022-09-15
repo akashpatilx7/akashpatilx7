@@ -1,3 +1,4 @@
+<img align="center" height="300" src="https://media-exp1.licdn.com/dms/image/C4E1BAQE9vAl_uYWIgA/company-background_10000/0/1571244669228?e=2147483647&v=beta&t=X7Kc1hae7ekWmOd7tI1rWzq0Og1Qb5d5EP3cr87LgCQ">
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
 <h3 align="center">A Tech Enthusiast From Buldana, Maharashtra, India.</h3>
 
