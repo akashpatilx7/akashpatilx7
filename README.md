@@ -70,5 +70,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashpatilx7)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7)
   
+![LeetCode Stats](https://leetcode.card.workers.dev/akash_patilx7?theme=auto&font=)
