@@ -36,7 +36,7 @@
 
 
 
-target="blank"><img align="center" src=
+
 
 
 <h3 align="left">Languages and Tools :</h3>
