@@ -66,10 +66,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpatilx7)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashpatilx7&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akashpatilx7)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akashpatilx7)
   
-![LeetCode Stats](https://leetcode.card.workers.dev/akash_patilx7?theme=auto&font=)
+![/akash_patilx7?theme=auto&font=
