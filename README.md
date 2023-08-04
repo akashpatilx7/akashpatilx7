@@ -8,21 +8,21 @@
 
 - 🎓 BE in Information Technology 
 
-- 👨‍💻 A Front-End Web developer.
+- 👨‍💻 A Full Stack Web Developer (MERN).
 
-- 🔭 I’m currently working on **Back-End Web Developement.**
+- 🔭 I’m currently working on **Full Stack Web Developement Projects.**
 
 - 👯 I’m looking to collaborate on **Problem Solving.**
 
-- 🤝 I’m looking for help with **Git-Github.**
+- 🤝 I’m looking for help with **Flutter Developement.**
 
-- 😎 I'm an **Open-Source Enthusiast.**
+- 😎 I'm a **Problem Solver.**
 
-- 💬 Ask me about **Competitive Programming, Data Structures & Algorithms & Front-End Web Developement.**
+- 💬 Ask me about **Competitive Programming, Data Structures & Algorithms & Full-Stack Web Developement.**
 
 - 📫 How to reach me **akashpatilap876716@gmail.com**
 
-- ⚡ Fun fact : **I am on Laptop for more than half of the day.**
+- 🚩 **Sab hoga bhai, Just keep Calm &amp; Say : Jai Shree Ram !**
 
 
 <br>
